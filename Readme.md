@@ -10,7 +10,6 @@ _Visvesvaraya National Institute of Technology, Nagpur_
 
 1. Install Python 3.7.0 and pip 18.0 in your PC.
 2. Clone the repository to directory of your PC.
-3. Open terminal in directory where repository is cloned and enter command "pip install -r requirements.txt"
 
 >_Users may also prefer to create a virtual environment to run simulator_
 

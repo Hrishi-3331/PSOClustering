@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea00153a-0097-42b3-8dc2-7843685ff7f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/plots/enemies.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/enemies.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions0.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions1.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions1.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions2.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions2.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions3.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions3.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions4.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions4.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions5.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions5.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions6.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions6.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions7.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions7.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions8.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions8.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/predictions9.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/predictions9.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots0.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots0.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots1.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots1.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots2.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots2.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots3.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots3.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots4.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots4.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots5.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots5.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots6.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots6.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots7.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots7.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots8.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots8.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/shoots9.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/shoots9.geojson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/soldiers.geojson" beforeDir="false" afterPath="$PROJECT_DIR$/plots/soldiers.geojson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +28,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
           <entry key="py" value="8" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="8" />
         </counts>
       </usages-collector>
@@ -65,12 +46,13 @@
           <entry key="dummy" value="11" />
           <entry key="md" value="4" />
           <entry key="py" value="3118" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="4" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="PLAIN_TEXT" value="12" />
           <entry key="Python" value="3175" />
         </counts>
       </usages-collector>
@@ -114,9 +96,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="539">
-                <caret line="38" column="119" selection-start-line="38" selection-start-column="119" selection-end-line="38" selection-end-column="119" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-135">
+                <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               </first_editor>
               <second_editor />
             </state>
@@ -182,6 +164,7 @@
         <option value="$PROJECT_DIR$/PSOCluster/Params.py" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/PSOCluster/ClusterSetup.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
@@ -287,6 +270,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -302,7 +286,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -360,16 +344,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PSOCluster/ClusterSetup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -380,11 +354,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PSOCluster/ClusterSetup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="539">
-            <caret line="38" column="119" selection-start-line="38" selection-start-column="119" selection-end-line="38" selection-end-column="119" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-135">
+            <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
           </first_editor>
           <second_editor />
         </state>
